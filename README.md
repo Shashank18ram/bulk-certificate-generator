@@ -13,7 +13,7 @@ from a single predefined template, tracks progress per job, and lets the client 
 ## 1. Setup
 
 ```bash
-git clone <your-repo-url> bulk-certificate-generator
+git clone <https://github.com/Shashank18ram/bulk-certificate-generator/blob/main/README.md> bulk-certificate-generator
 cd bulk-certificate-generator
 
 python -m venv .venv
